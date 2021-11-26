@@ -2,6 +2,17 @@ body{
     margin: 0;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 .row{
     display: flex;
     flex-wrap: wrap;
@@ -275,7 +286,7 @@ body{
         display: none;
     }
     .text3 p:hover{
-        display: none;ite;
+        display: none;
     }
     
     .text4 h1{
